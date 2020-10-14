@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Vivek Limbavali. I am currently working in IBM as Techincal/Customer Support Engineer. I am currently working on few of the cutting edge technologies and concepts such as Blockchain comprised of Hyperleger fabric, Docker and couch databases. I am involved in design review, development and deployment of such tools and technolgies in User Acceptance Test (UAT) and Production environment. I work directly with customers to maintain such codebase and any knowledge articles. I am also an Subject Matter Expert (SME) in IBM MQ with Webspehere MQ Admin certification. I try to encourage the use of automation either by using standard automation tools or by developing python and shell scripts wherever possible. I consider myself a giver where I try to dump my knowledge onto my juniors and even on seniors. 
+I am Vivek Limbavali. I am currently working in IBM as Technical/Customer Support Engineer. I am currently working on few of the cutting-edge technologies and concepts such as Blockchain, Docker, CouchDB. I am involved in design review, development and deployment of such tools and technologies in User Acceptance Test (UAT) and Production environment. I work directly with customers to maintain such codebase and any knowledge articles. I am also a Subject Matter Expert (SME) in IBM MQ with WebSpehere MQ Admin certification. I try to encourage the use of automation either by using standard automation tools or by developing python and shell scripts wherever possible. I consider myself a giver where I try to dump my knowledge onto my peers. 
 
-I hold a Master of Science degree in Business Analytics and a Certification in Applied Statistics from California State University, Eastbay. I completed my Bachelor of Engineering in Electronics and Communication from Karnataka, India. 
+I hold a Master of Science degree in Business Analytics and a Certification in Applied Statistics from California State University, Eastbay. I have completed my Bachelor of Engineering in Electronics and Communication from Visvesvaraya Technological University, Karnataka, India. 
 
 
 #### :school_satchel: Learning:
@@ -12,7 +12,8 @@ I’m currently learning basics of Kubernetes and its usage with respect to DevO
 - IBM MQ
 - Docker
 - Python
-- SQL
+- SQL and NoSQL
+- ETL
 - Github
 - Tableau
 - Databases 
