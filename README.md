@@ -25,5 +25,5 @@ I’m currently learning basics of Kubernetes and its usage with respect to DevO
 - [Twitter](https://twitter.com/viveklimbavali) 
 - [Instagram](https://instagram.com/vivek_limbavali)
 
-##### ⚡ Fun fact: 
-I am an outdoorsy person. So I enjoy hiking and other adventurous activities like bungy jumping, snorkeling, scuba diving, etc... 
+#### :zap: Fun fact: 
+I am an outdoorsy person. So I enjoy hiking and other adventurous activities like bungy jumping, snorkeling, scuba and sky diving, etc... 
